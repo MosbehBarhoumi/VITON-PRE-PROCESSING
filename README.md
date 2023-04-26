@@ -1,4 +1,6 @@
 # VITON Pre-Processing Steps
+![Capture d’écran du 2023-04-26 14-29-17](https://user-images.githubusercontent.com/78423450/234591196-f71c3de4-b632-4450-9562-66f717470779.png)
+
 
 ## Introduction
 
