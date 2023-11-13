@@ -8,7 +8,7 @@ In this project, I have developed a pre-processing pipeline for the VITON datase
 
 ## Getting Started
 
-Before you use the notebook, please make a copy of this folder in your drive at this link: https://drive.google.com/drive/folders/1tctFFeiwkLLJymC5rS3RtLRx0YRizRbD?usp=sharing. The folder contains all pre-trained models and code fixed, migrated, and cleaned of errors. Please note that this is the first version and it is not fully automated. I will release other versions in the future.
+Before you use the notebook, please make a copy of this folder in your drive at this link: [https://drive.google.com/drive/folders/1tctFFeiwkLLJymC5rS3RtLRx0YRizRbD?usp=sharing](https://drive.google.com/drive/folders/1tctFFeiwkLLJymC5rS3RtLRx0YRizRbD?usp=sharing). The folder contains all pre-trained models and code fixed, migrated, and cleaned of errors. Please note that this is the first version and it is not fully automated. I will release other versions in the future.
 
 ## Usage
 
